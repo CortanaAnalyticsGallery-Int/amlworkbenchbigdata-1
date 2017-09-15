@@ -1,0 +1,5 @@
+address: dd1spark1-ssh.azurehdinsight.net
+password: AzureMlSecret=myhdi#sshuser#a410092eb62947b3b38d7059f9a76ea2
+type: cluster
+username: sshuser
+yarnDeployMode: cluster

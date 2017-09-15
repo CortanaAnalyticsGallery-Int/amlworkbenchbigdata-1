@@ -1,0 +1,9 @@
+ArgumentVector:
+- $file
+CondaDependenciesFile: Config/conda_dependencies.yml
+EnvironmentVariables: null
+Framework: PySpark
+PrepareEnvironment: true
+SparkDependenciesFile: Config/dsvm_spark_dependencies.yml
+Target: dockerdsvm
+TrackedRun: true
